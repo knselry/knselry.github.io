@@ -1,0 +1,13 @@
+socials:
+  - name: bsky
+    link: https://bsky.app/profile/geodudehht.bsky.social
+    img: bsky.svg
+  - name: youtube
+    link: https://www.youtube.com/@kidnamedselry
+    img: yt.svg
+  - name: ng
+    link: https://selry.newgrounds.com
+    img: ng.svg
+  - name: soundcloud
+    link: https://soundcloud.com/selry
+    img: soundcloud.svg

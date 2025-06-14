@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/assets/css/styles.css">
+	</head>
+	<body style="margin: 0px;">
+		<div class="page">
+		  <div class="title">
+			<h1>selry.club</h1>
+		  </div>
+		  <div class="flexitems">
+			{% include navigation.html %}
+			<div class="content">
+			  {% assign categories = page.url | split:"/" %}
+			  {% if categories.size > 1 %}
+				{% include cat1.html %}
+			  {% endif %}
+			  {% if categories.size > 2 %}
+				{% include cat2.html %}
+			  {% endif %}
+			  {{ content }}
+			</div>
+		  </div>
+		  <div class="footer">
+		  <div class="socials">
+		  {% for item in site.data.footerdata.socials %}
+			<a href="{{ item.link }}" alt="{{ item.name }}"><img src="/assets/svg/{{ item.img }}" /></a>
+		  {% endfor %}
+		  </div>
+		  <p style="margin-top: 0;">Contact me: leo@saintandreas.org</p>
+		  </div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,15 @@
+<div class="category">
+	{% assign cat1 = categories[1] %}
+	{% assign cat = categories[2] %}
+	{% assign datapos =  cat1 | append: "_" | append: cat %}
+	{% for item in site.data[ datapos ] %}
+	{% assign expected = "/" | append: cat1 | append: "/" | append: cat | append: "/" | append: item.link %}
+	{% assign amt = expected | size %}
+	{% assign checked = page.url | truncate: amt, "" %}
+	{% if checked == expected %}
+	<b>{{ item.name }}</b> 
+	{% else %}
+	<a href="/{{categories[1]}}/{{cat}}/{{ item.link }}" >{{ item.name }}</a> 
+	{% endif %}
+	{% endfor %}
+</div>

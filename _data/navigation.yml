@@ -1,0 +1,8 @@
+- name: home
+  link: /
+- name: guides
+  link: /guides/
+- name: projects
+  link: /projects/
+- name: theories
+  link: /theories/
