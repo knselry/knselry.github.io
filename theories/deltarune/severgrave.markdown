@@ -104,11 +104,3 @@ Both abusers hear this and tell their victims that their involvement
 was real, which plants in them<br/>
 A. A voice called ERAM which tries to convince Kris that they like being part of <Weird Route> and are as evil as the man.<br/>
 B. A seed/baby SOUL which will allow the player to literally control Noelle?
-
-At the time of writing this, 4 is the latest chapter, so Noelle's story is unknown past this point.
-Kris later goes to art therapy, where they try to draw the man, but cannot bring themselves to think of him so they cover him up with a tree.
-
-Reasoning:
-Kris already knew Dess' shelter code since they preemptively stopped the soul from finding it.
-Entering Dess' code in the ch3 gacha machine plays a scene where Kris cannot find their hand.
-I believe this means that Kris entered Dess' code and then forced her into the bunker by severing their hand.
