@@ -12,10 +12,11 @@ piece-by-piece.
 1. Kris knew Dess' bunker code<br/>
 It's likely that the narrator of the game describes things chronologically to how they happen,
 so in Chapter 4 when Kris rips out the player while they are reading the code in Dess' guitar,
-they rip out the player before they themselves have finished reading it. This likely means that
-Kris had already found the code (likely before Dess disappeared). In addition, the TV world
-created by Kris reacts to you entering 1225 (the code), which is further evidence that Kris 
-knew it beforehand.
+they rip out the player before they themselves have finished reading it. 
+
+<b>This likely means that Kris had already found the code in Dess' guitar (likely before Dess disappeared).</b>
+In addition, the TV world created by Kris reacts to you entering 1225 (the code), 
+which is further evidence that Kris knew it beforehand.
 
 2. Parallels between the egg man and ERAM<br/>
 In deltarune, each chapter has an extremely hidden 'egg room' in the Dark World that contains a tree, but interacting
@@ -24,13 +25,16 @@ the tree, who gives the player the titular egg. In Chapter 3, both versions of B
 containing an entrance that leads underground, however the entrance is blocked by a small fern-looking sprite.
 However, if you go here in Tenna's version of board 2, Susie specifically says it's a tree.
 In the mantle version of the board, Retro Kris has a sword and can destroy this tree.
-In other words, both ERAM and the egg man are behind a tree, and they both likely represent the same character.
+
+<b>In other words, both ERAM and the egg man are behind a tree, and they both likely represent the same character.</b>
 
 3. Parallels between the northern light and the bunker<br/>
 I mentioned that in the mantle version of board 2, behind the tree was an entrance that led underground.
-This clearly represents the bunker. Given that ERAM is primarily seen in this bunker, this likely means
-that the egg man has something to do with the bunker. As well, the way you get into the northern light entrance
-is with an <b>ice key.</b> It would be reasonable to assume that "the code from December Holiday" 
+This clearly represents the bunker. 
+
+Given that ERAM is primarily seen in this bunker, this likely means
+that <b>the egg man has something to do with the bunker. As well, the way you get into the northern light entrance
+is with an ice key.</b> It would be reasonable to assume that "the code from December Holiday" 
 would be represented as an ice key.
 
 So far, we've established that<br/>
@@ -54,10 +58,12 @@ Now, let's introduce more clues.
 The 1225 gacha scene describes there being a 'small, black shard.'
 In addition to one of the main visual themes of the Knight being complete darkness,
 causing the cutscene where the Knight instantly annhilates the Fun Gang will make it
-drop the item 'BlackShard.' Given that the gacha scene plays when you enter Dess' code and then
+drop the item 'BlackShard.' 
+
+Given that the gacha scene plays when you enter Dess' code and then
 step into a doorframe that has awfully similar vibes to the bunker entrance, we can infer that
-what like happened was Kris entered Dess' code, Dess went/was taken into the bunker, then they "couldn't find their hand"
-while trying to pick up a black shard. I say 'someone' because Kris clearly has both hands and hometown
+<b>what likely happened was Kris entered Dess' code, Dess went/was taken into the bunker, then they "couldn't find their hand"
+while trying to pick up a black shard.</b> I say 'someone' because Kris clearly has both hands and hometown
 likely isn't technologically or magically advanced enough to be able to replace hands yet.
 
 5. Kris covered up something with a tree<br/>
@@ -69,7 +75,8 @@ Finally, there's a sink, which when interacted with after the canvas, will say '
 fingers, a faint grey crease glittered stubbornly. ... You can never wash it all away.'
 The majority of the community have inferred that this is actually a kind of therapy that Kris went to, given the sterile nature
 of the room itself.
-What I want to draw your attention to is the line 'You can never wash it all away.'
+
+<b>What I want to draw your attention</b> to is the line 'You can never wash it all away.'
 I believe this means Kris actually tried to draw the man, but felt guilty for trying to reveal him and covered it up with a tree.
 This would also imply that the man wasn't literally behind a tree, but that 'covering the man with a tree' is
 a method/coping mechanism Kris employs. This is plausible given that the man being behind a tree only usually happens in Kris' dark worlds.
