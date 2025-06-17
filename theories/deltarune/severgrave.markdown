@@ -77,7 +77,10 @@ Further evidence for this is one of the other interactions, 'Someone seems to be
 it seems that they haven't drawn the bark yet.' Given how the tree covering the man looks, it's very likely that Kris simply
 drew that pattern to hide the man's face and later turned it into a tree.
 
+With this evidence, I will make the main claim of this theory:
+Kris' backstory with the man very strongly parallels the events of Weirdroute.
 
+Below is my personal interpretation & retelling of what happens in both stories, using information from one story to fill in for the other.
 When I want to point out an equivalence between the two stories, I will say<br/>
 A. Kris Dreemurr						B. Noelle Holiday,<br/>
 which means that Kris is to Kris' backstory what Noelle is to WeirdRoute.
@@ -87,7 +90,7 @@ Both stories start with the victims being found & subsequently groomed by<br/>
 A. the man behind the tree.				B. the Player.
 
 This first series of abuse results in<br/>
-A. Dess being forced into the shelter 	B. Berdly getting frozen<br/>
+A. Dess being forced into the shelter	B. Berdly getting frozen<br/>
 with the <br/>
 A. Knife by Kris						B. ThornRing by Noelle<br/>
 while under the control of<br/>
@@ -109,10 +112,3 @@ Reasoning:
 Kris already knew Dess' shelter code since they preemptively stopped the soul from finding it.
 Entering Dess' code in the ch3 gacha machine plays a scene where Kris cannot find their hand.
 I believe this means that Kris entered Dess' code and then forced her into the bunker by severing their hand.
-
-Addendum 2:
-In board 2, if you go to the island (or NORTHERN LIGHT) where ERAM resides in the old game, Tenna will put up a technical difficulties screen, move the gang back to the main area, and block off the northern light.
-However, there is exactly one moment in the plot where Tenna is gone and the gang is able to raft over there. If you go there, you will be blocked by a tree which is there in both versions.
-This tree blocking ERAM reinforces the concept that ERAM is the man, but, interestingly, Ralsei also gets very concerned about us trying to go over there, saying it could have been something '...dangerous.'
-In addition, the only time you are able to remove that tree and see ERAM is when Ralsei is gone.
-What I mean to say is that Ralsei may be the dark manifestation of the tree.
