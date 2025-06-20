@@ -33,22 +33,22 @@ that <b>the egg man has something to do with the bunker. As well, the way you ge
 is with an ice key.</b> It would be reasonable to assume that "the code from December Holiday" 
 would be represented as an ice key.
 
-So far, we've established that<br/>
-a. there is a man blocked by a tree,<br/>
-b. who has something to do with/is in the bunker,<br/>
-c. who was involved when Kris used Dess' code to get into the bunker (as ERAM only appears inside the bunker).
+	So far, we've established that<br/>
+	a. there is a man blocked by a tree,<br/>
+	b. who has something to do with/is in the bunker,<br/>
+	c. who was involved when Kris used Dess' code to get into the bunker (as ERAM only appears inside the bunker).
 
-As well, the game establishes that when Dess disappeared,<br/>
-a. Kris was most likely involved,<br/>
-b. as well as the bunker (it's the biggest Chekov's Gun of all time),<br/>
-c. and by process of elimination of how else the bunker would be involved (no other ways), Dess most likely disappeared into the bunker.<br/>
+	As well, the game establishes that when Dess disappeared,<br/>
+	a. Kris was most likely involved,<br/>
+	b. as well as the bunker (it's the biggest Chekov's Gun of all time),<br/>
+	c. and by process of elimination of how else the bunker would be involved (no other ways), Dess most likely disappeared into the bunker.<br/>
 
-We can put these pieces together and say that<br/>
-a. Kris likely used Dess' code to open the bunker,<br/>
-b. at which point the man was inside the bunker,<br/>
-c. possibly taking Dess inside it.<br/>
+	We can put these pieces together and say that<br/>
+	a. Kris likely used Dess' code to open the bunker,<br/>
+	b. at which point the man was inside the bunker,<br/>
+	c. possibly taking Dess inside it.<br/>
 
-Now, let's introduce more clues.
+	Now, let's introduce more clues.
 
 4. The black shard in the 1225 gacha scene<br/>
 The 1225 gacha scene describes there being a 'small, black shard.'
