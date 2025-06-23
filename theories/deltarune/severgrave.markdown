@@ -101,5 +101,5 @@ A. nightmare.							B. dream.
 
 Both abusers hear this and tell their victims that their involvement 
 was real, which plants in them<br/>
-A. A voice called ERAM which tries to convince Kris that they like being part of <Weird Route> and are as evil as the man.<br/>
+A. A voice called ERAM which tries to convince Kris that they like being part of Weird Route and are as evil as the man.<br/>
 B. A seed/baby SOUL which will allow the player to literally control Noelle?
