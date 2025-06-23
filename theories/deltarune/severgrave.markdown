@@ -57,7 +57,7 @@ causing the cutscene where the Knight instantly annhilates the Fun Gang will mak
 drop the item 'BlackShard.' Given that the gacha scene plays when you enter Dess' code and then
 step into a doorframe that has awfully similar vibes to the bunker entrance, we can infer that
 <b>what likely happened was Kris entered Dess' code, Dess went/was taken into the bunker, then they "couldn't find their hand"
-while trying to pick up a black shard.</b> I say 'someone' because Kris clearly has both hands and hometown
+while trying to pick up a black shard.</b> I say Dess because Kris clearly has both hands and hometown
 likely isn't technologically or magically advanced enough to be able to replace hands yet.
 
 5. Kris covered up something with a tree<br/>
