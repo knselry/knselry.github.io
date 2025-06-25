@@ -1,6 +1,8 @@
 ---
 layout: default
 category1: guides
+title: SeverGrave
+desc: SeverGrave theory by selry
 ---
 <h2>SeverGrave Theory</h2>
 My main claim in SeverGrave theory is that the things that happen to 
