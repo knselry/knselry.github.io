@@ -8,8 +8,8 @@ desc: Theory by selry
 
 In terms of how they see dark worlds (or just play), Ralsei sees them as a way to escape from problems in the Light World (reality).
 
-<i>We can't do it all. So... if you ever feel like we're not enough...
-Just forget about us and make some real friends, okay?</i>
+> <i>We can't do it all. So... if you ever feel like we're not enough...
+> Just forget about us and make some real friends, okay?</i>
 
 -Ralsei, when explaining the true nature of Dark Worlds to Susie
 
