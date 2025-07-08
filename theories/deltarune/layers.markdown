@@ -23,4 +23,4 @@ The third layer, layer 3, is what I like to lovingly call "gaster bullshit."
 It exists as a way to neatly fit the program itself existing as well as the 
 soul being put into the world into the story. 
 
-Layer 2 is more of the "main" story (though layer 1 is still important either self evidently or as an extension of lsyer 2)
+Layer 2 is more of the "main" story (though layer 1 is still important either self evidently or as an extension of layer 2)
