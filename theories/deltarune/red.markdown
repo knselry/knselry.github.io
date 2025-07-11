@@ -1,8 +1,8 @@
 ---
 layout: default
 category1: guides
-title: Layers Theory
-desc: red
+title: Red in UTDR
+desc: #FF0000
 ---
 (This page is unfinished!)
 # Red in UNDERTALE & DELTARUNE
