@@ -4,6 +4,7 @@ category1: guides
 title: Layers Theory
 desc: red
 ---
+(This page is unfinished!)
 # Red in UNDERTALE & DELTARUNE
 Red appears several times in UNDERTALE & DELTARUNE.
 The most prominently we see it is, of course, the player's SOUL in both games. 
