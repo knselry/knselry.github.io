@@ -1,60 +1,120 @@
 <h1>THIS IS A FIRST DRAFT!</h1>
 imagine you're kris, in chapter 2, at the start of weirdroute. you're in a rather unique position where you're both able to (to some degree which you have not realized yet) stop anything the soul tries to do, and simultaneously not responsible for anything the soul tries to do. let's weigh our options for a bit. the only victims of this so far are darkners, which are of course just ultimately replaceable objects after the fact when the fountain is sealed, and Noelle. You've known Noelle for a while, she's, in fact, one of your closest friends. Now, this lends itself to two things. One, you may think "Oh, any real problems this may cause with her I can fix later down the line", so you may not consider what you're seeing happen in front of you to be as substantial as it appears. Two, you have a history Specifically of Pranking Noelle, and while you personally wouldn't go this far on your own, anyone you may meet would certainly deem this to be in-character for you. Considering these two things, along with the fact that you've never actually tried to stop the soul before, and have no idea how it would go, (after all, this is only the second day it's been with you), as well as the fact that, out of morbid curiosity, you find this all rather intriguing, you may choose to remain inactive! After all, that is the easiest option. You choose to do nothing for now. Your mouth moves on its own, as it has many times before, but you're not sure why it's moving. "It's perfectly natural", you said. Noelle seems just as surprised as you that you talked. As you go, you see the pain that's caused to Noelle, but given the novelty of the situation you're in, you might think "Oh, this isn't going to affect her in the long run, she's probably going to consider it all a weird dream!" So you keep going. You geet this nagging feeling that it's a problem and that you should stop, but you're still not willing to make the jump and see what happens when you try to stop the soul. After all, you were told that you need it in the dark worlds, and the last thing you would want is for something to happen that reveals you and the soul being separate to noelle. Fast forward to a bit later, you've gotten a "ThornRing" that you're made to equip to noelle. You question the practicality of a ring made of thorns, but you don't ponder it too much. Berdly stands in your way. At this point, it's the same song and dance. "Proceed" and a battle starts. You worry somewhat at a lightner getting caught up in this, but A. It's probably not going to be as bad as it was for the darkners and B. I mean like it's berdly dude come onnnnn you play minecrap with him but do you really care about him that much? The battle continues, but instead of the usual "IceShock", your mouth moves and says "Snowgrave". Noelle seems resistant. "Snowgrave" again. You consider stopping it, but right now with TWO lightners around would really not be a great time to go back on your inactivity. "Snowgrave". Noelle focuses on her magic, and casts the spell.
+
 ...
+
 Before you stands a block of ice with the faint silhouette of a person inside it.
+
 This was a terrible idea, but Noelle's decided to go her own path now, so not much you can do about it now.
+
 Fast forward to the next day, everything seems normal like nothing happened until you're brought to a game. It's very similar to both what happened yesterday, as well as your world, but it's different, to the latter, somehow. ...You decide to stick with the former interpretation. However, after it catches up to the end of the events of yesterday, instead of just ending, you end up "using up" the stand-in for her & you enter a black void. Suddenly, someone starts talking to you.
+
 "Well done. You found my secret hiding place. But there's nothing here... is there?"
+
 The soul bumbles around some more before picking up an item.
+
 "YOU GOT THE SHELTER KEY"
+
 Oh. That's what this is about now.
+
 The voice talks again.
+
 "Oh, you found that, too! Perfect, just perfect... Thanks for all your hard work, Kris!"
+
 In this moment you realize that this voice is talking to you. Not the soul, you. Whoever made this should get an award for "Most Immersive 202X".
+
 The next line of dialogue reads:
+
 "YOU WERE USED UP."
+
 The game ends.
+
 Unlike her you've never been a fan of psychological horror, and that's not going to change any time soon.
+
 Later, in the next level in the game, in the starting moments before the player gets the sword you realize that this may no longer be a retelling of past events, but a premonition of future events. One thing that clues you in to this is the fact that your Fun Gang teammates have appeared ingame where they were previously absent. Once the player gets the sword, they immediately kill your teammates. You freeze.
+
 ...After a moment, you can bring yourself to hold the controller normally again, allowing the soul to play. But it goes out of bounds and to a new area. Now this area, it's not like most areas in the game. Instead of being a nice landscape or such, it is, in fact, a faithful recreation of the real shelter in your town, which is the base of operations for your plan with the Knight. You realize that you should probably stop the soul from seeing in the place with all your secrets, and with no one around, you decide to just try your hardest to stop it from going any further. Eventually, you fail, but you learn quite a few useful things from this!
+
 1. You can't directly overpower the soul's actions
 2. You don't explode or otherwise get immediately compromised when you don't cooperate with the soul's actions.
+
 You decide to keep these two in mind.
+
 In the shelter, fortunately, is not all your secrets, but more characters to be slaughtered. Some of them resemble real life people you know. You consider the fact that this is most likely a premonition for how things are going to go. You don't like that very much. Eventually, you make it to another room that's almost entirely dark. The voice is there, too.
+
 "Kris, oh, Kris... Is it fun, Kris? Playing around like this... That's why you're searching for them, aren't you? The SHADOW CRYSTALs... and the SHADOW MANTLE I'm holding! Do you honestly think it'll get you what you want?"
+
 You consider these words for a moment. They don't make an awful lot of sense to you, but they would probably make a lot more sense should they be directed at the soul, the only other entity that can hear (or see, after all this is an NES game) the voice right now.
+
 You can't say the same about what it says next though.
+
 "No, part of you is just... enjoying this, isn't it? The same part of you that enjoyed yesterday. Knowing you could say it wasn't really you."
+
 You're appalled by this statement, and yet, you find it hard to come up with a good reason it's not true. It's awful, especially with the newfound knowledge that just stopping things from escalating as soon as you even slightly weren't a fan would have been easy, quick, and completely risk-free. 
+
 "Oh, don't make that sour face. I can see in the dark, you know! The question is... can you?"
+
 Since you're just waiting on the soul to complete this fight, you have nothing to do but ponder on what it said. This isn't a very healthy experience for you, and it ends up leaving you angry as you happily watch the nightmare that said it get beat up on your screen. But the nightmare hits you with another line.
+
 "There! That's what I wanted to see! Flickering red, like pretty little flames... Your eyes can't hide it, Kris. Without play, the knife grows dull."
+
 You just can't win with it, can you? But there's no time to think about that.
+
 The little kris representation, that's been controlled by the soul this whole time, walks out of the screen. Of course, this is somewhat shocking. Considering the whole premonition of slaughtering everyone thing, and the previous acts of violence the soul has done, it may not come at a surprise that the mini-you starts stabbing at you. However, for some reason, the mini-you just leaves. 
+
 ...
+
 Fast forward to after you're out of that Dark World, you've had time to think about the games, and you've got your downtime between chapters! Despite all the parts of the games you do consider, you don't truly consider what the nightmare said to you, which is probably good for everyone's mental health. However, the consideration you do take leads you to realize that all of this "snowgrave" bullshit needs to be over now. You go to her house to find her contemplating what happened yesterday on her porch. You notice that she has a thorn stuck properly into her finger. Oh. You go talk to her, tell her it's going to be okay, give her back anything the soul might have stolen, and take out the thorn. You take another moment and think about how to tell her about the soul. Of course, you can't actually tell her anything, but you contemplate what you can tell her. Eventually, you say something along the lines of "Don't talk about this ever again, it'll be heard." You leave with that thorn, and you mean to go throw it away, and you don't remember if you actually did that, but you don't feel anything weighing down your pocket so you stop paying it any mind. Fast forward to the morning after, you're in a rather peculiar situation. You're free in her house & the soul is loose somewhere in the house like a goddamn rat infestation. You're pretty sure it's going through the vents, so you're trying your best to seal as many vents as you can. Things are going according to plan (well, as according as you usually care to have them be) but suddenly, while trying to put the soul back in a place where it will stay put, you have to hide it in a drawer because she wants to talk to you. She asks you to come to her room. You say yes, go make the soul stay put, then go talk to her. She pretty much repeats what you said to her last night, and you realize how much this has impacted her despite your best efforts. This was not really a good idea, but there's no point thinking on that. Suddenly, you get that feeling. You know, that feeling you get every time before your mouth moves on its own, when the soul is there.
+
 ...
+
 Please don't.
+
 ...
+
 She keeps repeating what you said, up to the point where you said it would be "heard" if she repeated any of it. You try to tell her to stop, but before you realize, the soul is already present. You move your hand up to shush her, but she doesn't believe you.
+
 Your mouth moves on it's own.
+
 "Me".
+
 The distress you're feeling in this situation reminds you of how you felt when the nightmare was talking to you. The distress you see on her face adds to this. You remember what the nightmare said. "Part of you is just enjoying this, isn't it?" You remember that sometimes when you think of something to say right when the soul talks, that it actually says what you wanted to say. You think as hard as you can, "It was a joke. Sorry, just a prank." It's the only thing you've ever wanted to say in your entire life.
+
 ...
+
 "It wasn't a dream."
+
 You're not sure what the soul is responding to, but she jumps back even more.
+
 "I heard."
+
 You've already failed her and yourself so much by letting it go this far.
+
+
 "Red."
+
 You never wanted to be a bad person, but you are.
+
 "Black."
+
 You let this happen. This isn't even the first time you've let something bad happen to a holiday.
+
 "Proceed."
+
 Why even bother anymore? The failure would just feel worse then not trying at all.
+
 ...
+
+........
+
 You're very upset about everything right now, naturally. It appears to be inactive for now, so you take a moment to distance yourself from her. It's just you, and it, now. You know you should keep the knife to yourself lest everything go VERY wrong, but you're just so mad at the soul. Everything is it's fault. You throw it into the trash can, and beat the everloving shit out of it. This is the least it deserves right now. Slam. Slam. The only thing coursing through your mind right now is hatred, and with good reason. You have never dedicated yourself to something more than this, this moment of retribution. Not once do you stop to think about where this will end, until-
+
 ...
+
 You hear him. Your father. He's worried about you, since he knows you're not feeling well. The words he uses may not do the magnitude of emotions you're feeling justice, but
+
 You pause for a moment. You think for another. You remember the plan. You remember the promise you made.
+
 ... Deep breaths.
+
 You pick the soul back up... you put it back in control.
