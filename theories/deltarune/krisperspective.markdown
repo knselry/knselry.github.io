@@ -1,5 +1,56 @@
-<h1>THIS IS A FIRST DRAFT!</h1>
-imagine you're kris, in chapter 2, at the start of weirdroute. you're in a rather unique position where you're both able to (to some degree which you have not realized yet) stop anything the soul tries to do, and simultaneously not responsible for anything the soul tries to do. let's weigh our options for a bit. the only victims of this so far are darkners, which are of course just ultimately replaceable objects after the fact when the fountain is sealed, and Noelle. You've known Noelle for a while, she's, in fact, one of your closest friends. Now, this lends itself to two things. One, you may think "Oh, any real problems this may cause with her I can fix later down the line", so you may not consider what you're seeing happen in front of you to be as substantial as it appears. Two, you have a history Specifically of Pranking Noelle, and while you personally wouldn't go this far on your own, anyone you may meet would certainly deem this to be in-character for you. Considering these two things, along with the fact that you've never actually tried to stop the soul before, and have no idea how it would go, (after all, this is only the second day it's been with you), as well as the fact that, out of morbid curiosity, you find this all rather intriguing, you may choose to remain inactive! After all, that is the easiest option. You choose to do nothing for now. Your mouth moves on its own, as it has many times before, but you're not sure why it's moving. "It's perfectly natural", you said. Noelle seems just as surprised as you that you talked. As you go, you see the pain that's caused to Noelle, but given the novelty of the situation you're in, you might think "Oh, this isn't going to affect her in the long run, she's probably going to consider it all a weird dream!" So you keep going. You geet this nagging feeling that it's a problem and that you should stop, but you're still not willing to make the jump and see what happens when you try to stop the soul. After all, you were told that you need it in the dark worlds, and the last thing you would want is for something to happen that reveals you and the soul being separate to noelle. Fast forward to a bit later, you've gotten a "ThornRing" that you're made to equip to noelle. You question the practicality of a ring made of thorns, but you don't ponder it too much. Berdly stands in your way. At this point, it's the same song and dance. "Proceed" and a battle starts. You worry somewhat at a lightner getting caught up in this, but A. It's probably not going to be as bad as it was for the darkners and B. I mean like it's berdly dude come onnnnn you play minecrap with him but do you really care about him that much? The battle continues, but instead of the usual "IceShock", your mouth moves and says "Snowgrave". Noelle seems resistant. "Snowgrave" again. You consider stopping it, but right now with TWO lightners around would really not be a great time to go back on your inactivity. "Snowgrave". Noelle focuses on her magic, and casts the spell.
+<h1>THIS IS A VERY VERY EARLY DRAFT!</h1>
+Imagine you're Kris, in chapter 2, at the start of weirdroute. 
+You're in a rather unique position where you're both able to (to some degree which you have not realized yet) stop anything the soul tries to do, and simultaneously not responsible for anything the soul tries to do. 
+
+Let's say we've commanded a couple iceshocks and said a couple "Proceed"s so far, and weigh our options for a bit. 
+
+The only victims of this so far are Darkners, which are of course just ultimately replaceable objects after the fact when the fountain is sealed, and Noelle. 
+
+You've known Noelle for a while, she's, in fact, one of your closest friends. This lends itself to two things. 
+
+One, you may think "Oh, any real problems this may cause with her I can fix later down the line", so you may not consider what you're seeing happen in front of you to be as substantial as it appears. 
+
+Two, you have a history Specifically of Pranking Noelle, and while you personally wouldn't go this far on your own, anyone you may meet would certainly deem this to be in-character for you. 
+
+Considering these two things, along with the fact that you've never actually tried to stop the soul before, and have no idea how it would go, (after all, this is only the second day it's been with you), as well as the fact that, out of morbid curiosity, you find this all rather intriguing, you may choose to remain inactive! 
+
+After all, that is the easiest option. 
+
+You choose to do nothing for now. Your mouth moves on its own, as it has many times before, but you're not sure why it's moving. 
+
+"It's perfectly natural", you said. Noelle seems just as surprised as you that you talked. 
+
+As you go forward, you hear Noelle's concerns about what's happening, but given the novelty of the situation you're in, you might think "Oh, this isn't going to affect her in the long run, she's probably going to consider it all a weird dream!" So you keep going. 
+
+You have a second thought, a thought that it's a problem and that you should stop, but you're still not willing to make the jump and see what happens when you try to stop the soul. 
+
+After all, you were told that you need it in the dark worlds, and the last thing you would want is for something to happen that reveals you and the soul being separate to Noelle. 
+
+Fast forward to a bit later, you've gotten a "ThornRing" that you're made to equip to Noelle. 
+
+You question the practicality of a ring made of thorns, but you don't ponder it too much and move on. 
+
+Berdly stands in your way. 
+
+At this point, it's the same song and dance. "Proceed" and a battle starts. You worry somewhat at a lightner getting caught up in this, but 
+
+A. It's probably not going to be as bad as it was for the darkners and 
+
+B. I mean like it's Berdly dude come onnnnn you play minecrap with him but do you really care about him that much? 
+
+The battle continues, but instead of the usual "IceShock", your mouth moves and says "Snowgrave". 
+
+Noelle seems resistant. 
+
+"Snowgrave" again. 
+
+You consider stopping it, 
+
+but right now with TWO lightners around would really not be a great time to go back on your inactivity. 
+
+"Snowgrave". 
+
+Noelle focuses on her magic, and casts the spell.
 
 ...
 
