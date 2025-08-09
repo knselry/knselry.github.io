@@ -1,5 +1,9 @@
 <h1>THIS IS A VERY VERY EARLY DRAFT!</h1>
+
+I wrote this as more of a script for a video than a standalone article, so keep that in mind.
+
 Imagine you're Kris, in chapter 2, at the start of weirdroute. 
+
 You're in a rather unique position where you're both able to (to some degree which you have not realized yet) stop anything the soul tries to do, and simultaneously not responsible for anything the soul tries to do. 
 
 Let's say we've commanded a couple iceshocks and said a couple "Proceed"s so far, and weigh our options for a bit. 
